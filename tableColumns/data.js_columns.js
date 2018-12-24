@@ -1,0 +1,6 @@
+{ title: '预计回款时间', dataIndex: 'expectReturnTime', key: 'expectReturnTime'},
+{ title: '预计毛利率', dataIndex: 'expectProfitMargin', key: 'expectProfitMargin'},
+{ title: '逾期天数', dataIndex: 'overdueDays', key: 'overdueDays'},
+{ title: '逾期成本', dataIndex: 'overdueCost', key: 'overdueCost'},
+{ title: '实际毛利率', dataIndex: 'actualProfitMargin', key: 'actualProfitMargin'},
+{ title: '下游发票', dataIndex: 'downstreamInvoice', key: 'downstreamInvoice'},
