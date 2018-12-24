@@ -70,7 +70,7 @@ func handleStr(lineStr string) string {
 	if *hasKey == true {
 		keyStr = `, key: '` + key + `'`
 	}
-	return `{ title: '` + title + `'` + `, ` + `dataIndex: '` + key + `'` + keyStr + `},`
+	return `{ title: '` + title + `'` + `, ` + `dataIndex: '` + key + `'` + keyStr + ` },`
 }
 
 var hasKey *bool
