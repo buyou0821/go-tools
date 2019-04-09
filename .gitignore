@@ -11,3 +11,5 @@ golang.org
 *.njsproj
 *.sln
 *.sw*
+
+/dist.gz
